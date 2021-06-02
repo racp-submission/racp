@@ -1,8 +1,4 @@
-# Perceive Your User in the Page Context: Recurrent Attention over Contextualized Page Sequence for Personalized E-commerce Search Ranking System
-
-KDD 2021 Anonymous Submission #3322.
-
-
+# Recurrent Attention over Contextualized Page sequence for Click-Through Rate Prediction in Taobao Personalized Search Ranking	
 ## Introduction
 Pipeline:
 1. Prepare Data
